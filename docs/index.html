@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Progetti di Basi di Dati 2 — Sapienza</title>
+<meta name="theme-color" content="#0d1117">
+<meta name="description" content="Soluzioni proposte ai progetti del corso di Basi di Dati, Modulo 2 (Sapienza, Laurea in Informatica).">
+<style>
+/* Palette del tema scuro di GitHub */
+:root{
+  color-scheme:dark;
+  --sfondo:#0d1117;        /* canvas */
+  --superficie:#151b23;    /* schede */
+  --bordo:#3d444d;
+  --testo:#f0f6fc;
+  --testo-tenue:#9198a1;
+  --accento:#4493f8;       /* link */
+  --verde:#3fb950;
+  --ambra:#d29922;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--sfondo);color:var(--testo);
+  font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.wrap{max-width:880px;margin:0 auto;padding:56px 20px 80px}
+header{border-bottom:1px solid var(--bordo);padding-bottom:28px;margin-bottom:36px}
+h1{font-size:2rem;line-height:1.2;margin:0 0 8px}
+.sub{color:var(--testo-tenue);font-size:.95rem;margin:0}
+.intro{margin:28px 0 0;max-width:62ch;color:#d1d7e0}
+.nota{margin-top:28px;padding:14px 18px;background:rgba(187,128,9,.1);
+  border-left:3px solid var(--ambra);border-radius:0 6px 6px 0;
+  font-size:.9rem;color:#d1d7e0}
+.nota strong{color:var(--ambra)}
+h2{font-size:1.1rem;letter-spacing:.02em;text-transform:uppercase;color:var(--testo-tenue);
+  margin:44px 0 20px;font-weight:600}
+ul.progetti{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+li.p{background:var(--superficie);border:1px solid var(--bordo);border-radius:8px;
+  padding:20px 22px;transition:border-color .15s}
+li.p:hover{border-color:#6b7280}
+li.p h3{margin:0 0 4px;font-size:1.15rem}
+li.p h3 a{color:var(--accento);text-decoration:none}
+li.p h3 a:hover{text-decoration:underline}
+li.p .stato{display:inline-block;font-size:.72rem;letter-spacing:.04em;
+  text-transform:uppercase;font-weight:600;padding:3px 9px;border-radius:999px;
+  border:1px solid;vertical-align:1px}
+li.p .stato.completo{color:var(--verde);background:rgba(46,160,67,.15);
+  border-color:rgba(63,185,80,.4)}
+li.p .stato.parziale{color:var(--ambra);background:rgba(187,128,9,.15);
+  border-color:rgba(187,128,9,.4)}
+li.p p{margin:10px 0 14px;color:#d1d7e0;font-size:.94rem}
+.links{display:flex;flex-wrap:wrap;gap:16px;font-size:.88rem}
+.links a{color:var(--accento);text-decoration:none}
+.links a:hover{text-decoration:underline}
+.links span{color:#656c76}
+footer{margin-top:56px;padding-top:24px;border-top:1px solid var(--bordo);
+  font-size:.85rem;color:var(--testo-tenue)}
+footer a{color:var(--accento)}
+@media (max-width:600px){.wrap{padding:36px 16px 60px}h1{font-size:1.6rem}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Progetti di Basi di Dati 2</h1>
+  <p class="sub">Sapienza Università di Roma · Laurea in Informatica · Prof. Toni Mancini</p>
+</header>
+
+<p class="intro">
+  Raccolta delle mie soluzioni ai progetti del corso di <strong>Basi di Dati, Modulo 2</strong>.
+</p>
+
+<div class="nota">
+  <strong>Nota.</strong> Sono soluzioni personali, non ufficiali e non validate dal docente.
+  Possono contenere errori o scelte di modellazione discutibili: usale come termine di confronto
+  dopo aver provato a svolgere il progetto, non come soluzione di riferimento.
+</div>
+
+<h2>11 progetti</h2>
+
+<ul class="progetti">
+
+<li class="p">
+  <h3><a href="ebuy/index.html">eBuy</a></h3>
+  <span class="stato completo">Completo</span>
+  <p>Aste online e commercio elettronico: annunci di vendita, aste al rialzo e formula compralo subito. Include una gerarchia di categorie con vincoli di aciclicità e i venditori professionali con indice di popolarità.</p>
+  <div class="links"><a href="ebuy/index.html">Leggi la soluzione</a><span>·</span><a href="ebuy/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="tutubi/index.html">TuTubi</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Portale di pubblicazione e condivisione di video, con valutazioni e commenti degli utenti registrati. Operazioni derivate come numero di visualizzazioni e valutazione media, e vincoli su chi può valutare quali video.</p>
+  <div class="links"><a href="tutubi/index.html">Leggi la soluzione</a><span>·</span><a href="tutubi/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="quickhospital/index.html">QuickHospital</a></h3>
+  <span class="stato completo">Completo</span>
+  <p>Gestione di ricoveri, posti letto e prenotazioni di visite ambulatoriali in ospedale. Comprende il calcolo dell'itinerario di visita dei medici ordinato per piano e settore, e la selezione dei medici più idonei a una prestazione.</p>
+  <div class="links"><a href="quickhospital/index.html">Leggi la soluzione</a><span>·</span><a href="quickhospital/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="out/index.html">Out!</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Consultazione del programma di cinema e teatri cittadini e prenotazione degli spettacoli. Sedi, sale, posti e tariffe per settore, con lo use case che suggerisce eventi all'utente.</p>
+  <div class="links"><a href="out/index.html">Leggi la soluzione</a><span>·</span><a href="out/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="dormodate/index.html">DormoDaTe</a></h3>
+  <span class="stato completo">Completo</span>
+  <p>Portale che consente agli iscritti di chiedere ospitalità a casa di altri iscritti durante i viaggi. Profili, sistemazioni, prenotazioni e feedback reciproci, con vincoli su capienza, sovrapposizioni e ospitalità presso sé stessi.</p>
+  <div class="links"><a href="dormodate/index.html">Leggi la soluzione</a><span>·</span><a href="dormodate/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="xfit/index.html">xFit</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Gestione di un centro sportivo: clienti, attività offerte, personale, contratti e abbonamenti. Il diagramma è proposto in due varianti, ricorsiva e non ricorsiva, con operazioni su scadenze e terminazione dei contratti.</p>
+  <div class="links"><a href="xfit/index.html">Leggi la soluzione</a><span>·</span><a href="xfit/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="ristobook/index.html">RistoBook</a></h3>
+  <span class="stato completo">Completo</span>
+  <p>Applicazione web per creare e gestire prenotazioni presso i ristoranti, con promozioni. I vincoli legano la validità di una promozione al giorno della settimana e alla fascia oraria della prenotazione.</p>
+  <div class="links"><a href="ristobook/index.html">Leggi la soluzione</a><span>·</span><a href="ristobook/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="smart2go/index.html">smart2go</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Servizio cittadino di car sharing: soci, veicoli e noleggi pagati al minuto. Include lo use case di pre-registrazione con approvazione del responsabile e i vincoli sulla validità della patente.</p>
+  <div class="links"><a href="smart2go/index.html">Leggi la soluzione</a><span>·</span><a href="smart2go/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="amazzon/index.html">AmaZZon</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Marketplace di e-commerce in cui negozi indipendenti pubblicano offerte e gli utenti privati acquistano. Il modello copre spedizioni con fasce di costo per nazione, carte di credito, buoni regalo e amicizie tra utenti.</p>
+  <div class="links"><a href="amazzon/index.html">Leggi la soluzione</a><span>·</span><a href="amazzon/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="colab/index.html">CoLab</a></h3>
+  <span class="stato parziale">Solo analisi concettuale</span>
+  <p>Sistema di gestione per uno spazio di coworking: clienti, strutture, servizi e abbonamenti. Il modello distingue abbonamenti aziendali e personali, con vincoli su chi può sottoscriverli e quanti utenti possono usarli.</p>
+  <div class="links"><a href="colab/index.html">Leggi la soluzione</a><span>·</span><a href="colab/traccia.pdf">Traccia (PDF)</a></div>
+</li>
+
+<li class="p">
+  <h3><a href="archeosys/index.html">ArcheoSys</a></h3>
+  <span class="stato completo">Completo</span>
+  <p>Gestione di progetti di scavo archeologico: progetti, team, persone con specializzazioni, scavi e reperti. Tra i vincoli, l'avvio di un progetto solo se il team copre tutte le specializzazioni richieste dagli scavi coinvolti. Era il progetto del mio esame, superato con 30 e lode: del testo non ho conservato una copia, per questo manca la traccia.</p>
+  <div class="links"><a href="archeosys/index.html">Leggi la soluzione</a></div>
+</li>
+
+</ul>
+
+<footer>
+  <p>
+    Soluzioni di Alessio Cavedal. Le tracce dei progetti sono materiale didattico
+    del Prof. Toni Mancini, incluse qui per comodità di consultazione.
+  </p>
+  <p><a href="https://github.com/AlessioCavedal/basi-di-dati-2-progetti">Codice sorgente su GitHub</a></p>
+</footer>
+
+</div>
+</body>
+</html>

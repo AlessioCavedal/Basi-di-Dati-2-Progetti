@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Export scaricati da Google Docs
+*.zip
+*.docx
+
+# Editor
+.vscode/
+.idea/
