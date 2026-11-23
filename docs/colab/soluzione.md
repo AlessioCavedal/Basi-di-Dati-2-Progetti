@@ -4,7 +4,7 @@ Sistema di gestione per uno spazio di coworking: clienti, strutture, servizi e a
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/colab/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/colab/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

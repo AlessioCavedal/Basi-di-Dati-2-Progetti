@@ -4,7 +4,7 @@ Servizio cittadino di car sharing: soci, veicoli e noleggi pagati al minuto, con
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/smart2go/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/smart2go/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

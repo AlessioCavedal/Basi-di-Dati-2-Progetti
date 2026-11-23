@@ -4,7 +4,7 @@ Marketplace di e-commerce in cui negozi indipendenti pubblicano offerte e gli ut
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/amazzon/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/amazzon/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

@@ -4,7 +4,7 @@ Applicazione web per creare e gestire prenotazioni presso i ristoranti, con prom
 
 Comprende l'**analisi concettuale** e la **fase di progettazione**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/ristobook/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/ristobook/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

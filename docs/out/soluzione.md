@@ -4,7 +4,7 @@ Consultazione del programma di cinema e teatri cittadini e prenotazione degli sp
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/out/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/out/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

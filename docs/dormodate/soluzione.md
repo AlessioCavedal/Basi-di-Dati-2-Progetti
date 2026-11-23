@@ -4,7 +4,7 @@ Portale che consente agli iscritti di chiedere ospitalità a casa di altri iscri
 
 Comprende l'**analisi concettuale** e la **fase di progettazione**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/dormodate/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/dormodate/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

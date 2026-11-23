@@ -4,7 +4,7 @@ Portale di pubblicazione e condivisione di video, con valutazioni e commenti deg
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/tutubi/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/tutubi/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

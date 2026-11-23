@@ -4,7 +4,7 @@ Gestione di un centro sportivo: clienti, attività offerte, personale, contratti
 
 Comprende l'**analisi concettuale**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/xfit/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/xfit/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

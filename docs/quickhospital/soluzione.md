@@ -4,7 +4,7 @@ Gestione di ricoveri, posti letto e prenotazioni di visite ambulatoriali in ospe
 
 Comprende l'**analisi concettuale** e la **fase di progettazione**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/quickhospital/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/quickhospital/)**
 
 📄 [Traccia del progetto](traccia.pdf)
 

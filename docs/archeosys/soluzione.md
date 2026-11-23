@@ -4,7 +4,7 @@ Gestione di progetti di scavo archeologico: progetti, team, persone con speciali
 
 Comprende l'**analisi concettuale** e la **fase di progettazione**.
 
-📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/basi-di-dati-2-progetti/archeosys/)**
+📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/archeosys/)**
 
 Del testo della traccia non ho una copia: era il progetto assegnato al mio esame, superato con 30 e lode.
 
