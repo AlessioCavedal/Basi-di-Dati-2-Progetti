@@ -6,6 +6,8 @@ Comprende l'**analisi concettuale** e la **fase di progettazione**.
 
 📖 **[Leggi la soluzione →](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/archeosys/)**
 
-Del testo della traccia non ho una copia: era il progetto assegnato al mio esame, superato con 30 e lode.
+Era il progetto assegnato al mio esame, superato con 30 e lode.
+
+📄 [Traccia del progetto](traccia.pdf)
 
 ↩ [Tutti i progetti](../../README.md)

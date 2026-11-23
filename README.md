@@ -42,7 +42,7 @@ Soluzioni proposte ai progetti del corso di **Basi di Dati, Modulo 2** — Super
 | [CoLab](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/colab/) | Solo analisi concettuale | Spazio di coworking, abbonamenti aziendali e personali |
 | [ArcheoSys](https://alessiocavedal.github.io/Basi-di-Dati-2-Progetti/archeosys/) | Completo (Mio esame, 30 e Lode) | Progetti di scavo archeologico, team, specializzazioni, reperti |
 
-Il PDF della traccia si trova nella cartella di ogni progetto ed è raggiungibile dal link in cima a ciascuna pagina. Fa eccezione **ArcheoSys**: era il progetto assegnato al mio esame. Non ho il PDF della traccia, ma la soluzione è comunque completa.
+Il PDF della traccia si trova nella cartella di ogni progetto ed è raggiungibile dal link in cima a ciascuna pagina.
 
 ## Avvertenza
 
